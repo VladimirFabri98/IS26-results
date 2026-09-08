@@ -1,0 +1,50 @@
+MERIDIAN AUTOMOTIVE GROUP
+Production, Sales & Market Position — Quarterly Status Report
+Q3 2026 (working draft, rev. 4)
+
+1. Overview
+This report summarizes where we stand across the Hartsdale and Novi Sad assembly lines, current vendor situation, sales pipeline for the fall, and where the competition seems to be headed. It's a bit uneven in places — some sections got more attention than others depending on what came up this week — but the key numbers and dates are all in here somewhere. Apologies in advance for the jumps.
+Short version: production is mostly on track except Line 2, sales are okay-ish but softer in the compact segment, the Kranj vendor situation needs a decision by next week, and the Munich fair is coming up faster than anyone budgeted for.
+2. Production Lines
+Line 1 (sedan/hatchback chassis) is running close to plan. We hit 94% of the weekly output target in the last four weeks, which is fine, not great. The bottleneck earlier in the summer around the paint booth seems to have resolved itself after the shift schedule change, though nobody wants to say for certain that it's fixed for good.
+Line 2 is the one to watch. The new welding robots (six units, installed in July) are still throwing intermittent calibration faults — maybe twice a shift, sometimes more. Engineering thinks it's a sensor mounting issue, not a software one, but honestly there's some disagreement there internally. Output on Line 2 has been running around 78-82% of target depending on the day.
+Target recovery date for Line 2: somewhere between October 10–18, pending parts from the vendor (see Section 4). This is the deadline that actually matters for the fall production ramp, so it should not slip further.
+Line 3 (EV variant, still semi-pilot) continues at low volume, roughly 40 units/week. Yield is improving slowly. Not a near-term priority for this report but flagging that battery pack supply is tight through year-end.
+3. Sales Performance
+Overall sales for the quarter are trending close to forecast in the SUV/crossover segment but noticeably soft in compacts — down somewhere around 6-9% year over year depending on which region's numbers you trust more, the regional offices and corporate are not fully aligned on this. Fleet/commercial sales are the bright spot, up double digits, largely driven by two large fleet contracts signed in July (one logistics client, one municipal contract — details being finalized, will not name here yet).
+Segment	Units (QTD)	vs. Forecast	Trend
+Compact	≈ 11,400	-6% to -9%	↓
+SUV / Crossover	≈ 18,900	roughly on plan	→
+Sedan	≈ 7,100	-3% (approx.)	↓
+Fleet / Commercial	≈ 4,300	+14% to +18%	↑
+EV pilot line	≈ 480	n/a — new	↑
+Numbers above are approximate and pulled from two slightly different reporting systems, so treat as directional rather than exact — finance is reconciling and a cleaner set should be out before the next board update.
+Regional note: the Southeast region continues to underperform, someone on the call mentioned dealer inventory issues but I did not catch the specifics. Worth a follow-up call, not urgent.
+4. Vendors & Supply
+The Kranj (Slovenia) stamping vendor situation is the one that needs attention soonest. They've been reliable for years but the last two shipments of Line 2 door panels arrived with tolerance issues — out of spec by a small margin, but enough that QA flagged them. We're waiting on their corrective action plan, expected sometime next week, maybe the 9th or the 12th, dates keep moving.
+Decision needed by: end of next week — either accept their revised tolerances (with a discount, still being negotiated, ballpark 4-5% off the affected batch) or activate the backup vendor in Katowice, which would add roughly two to three weeks of lead time we don't really have.
+Other vendor items, briefly:
+•	Seat foam supplier switched last month without major issues, quality checks passing.
+•	Battery cell supplier for Line 3 confirmed pricing through Q1 2027, contract signed.
+•	Semiconductor supply overall improved vs. last year but infotainment module chips are still the tightest item — 6–8 week lead times.
+•	A third stamping vendor (name withheld, still in early talks) was mentioned as a longer-term hedge; nothing concrete yet.
+5. Trade Fairs & Marketing
+The Munich Motor Show prep is behind where it should be at this point in the calendar, honestly. Booth design is close to final. Vehicle units for display — we're sending three, the SUV, the fleet variant, and (tentatively) the EV pilot if Line 3 can get one to spec in time, which is not guaranteed.
+Fair dates: the show itself runs mid-September, and the shipping cutoff for the display vehicles is roughly ten days before that — logistics has the exact date, I don't have it in front of me right now but it is tight, possibly the tightest deadline in this whole report.
+Marketing also wants a decision on whether to do a press event on day one or day two of the fair; day two apparently gets better journalist turnout historically but day one gets more of the trade/dealer audience. No strong recommendation from this report either way — flagging for the marketing lead to decide.
+Smaller regional fair in Novi Sad in October is lower priority, local dealer network handling most of the logistics themselves.
+6. Competitive Landscape
+Competitors are moving in a few directions worth noting, though this section is more impressionistic than the others since a lot of it comes from trade press and the sales team's read of the floor at dealerships rather than hard data.
+•	The main domestic competitor (the one with the blue-and-white logo, everyone knows who) announced a compact refresh for early next year — this is likely a direct hit on our softest segment, worth watching closely.
+•	A newer EV-focused entrant has been aggressive on pricing in urban markets; not clear yet if it's sustainable or a launch promotion.
+•	One of the larger European groups is rumored (unconfirmed) to be shifting some production closer to our region, which could affect logistics costs and lead times for everyone, us included.
+Overall read: the compact segment pressure is the most immediate competitive concern given our current softness there, more so than the EV space which is still small in absolute volume for everyone.
+7. Open Items & Next Steps
+•	Line 2 calibration fix — engineering to report back, target window Oct 10–18.
+•	Kranj vendor decision — due end of next week, backup vendor lead time is the constraint.
+•	Munich fair shipping cutoff — confirm exact date with logistics, flag as high priority.
+•	Finance to reconcile the two sales reporting systems before next board update.
+•	Southeast region dealer inventory issue — follow-up call to be scheduled.
+•	Marketing to decide press event day (1 vs 2) for Munich.
+
+Next full report update expected ahead of the October operations review; some of the softer figures above (regional sales, Kranj resolution) should be firmer by then.
